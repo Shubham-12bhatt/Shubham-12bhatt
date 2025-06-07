@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Shubham Bhatt
 
-# 💫 About Me:
+# 😎 About Me:
  I'm a BTech Computer Science student passionate about learning and building. Currently exploring the world of Web Development and diving into Java for problem-solving and development.<br>📚 Always curious and excited to grow through hands-on projects and collaboration.
 
 
