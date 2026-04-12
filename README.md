@@ -18,9 +18,11 @@ Currently a **Web Developer (MERN Stack)** with a strong focus on **problem-solv
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shubham-12bhatt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shubham-12bhatt&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-12bhatt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Shubham-12bhatt&theme=dark&show_icons=true&count_private=true&include_all_commits=true)
+
+![](https://streak-stats.demolab.com?user=Shubham-12bhatt&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-12bhatt&theme=dark&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shubham-12bhatt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
