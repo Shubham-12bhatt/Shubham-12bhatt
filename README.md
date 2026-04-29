@@ -31,3 +31,4 @@ Currently a **Web Developer (MERN Stack)** with a strong focus on **problem-solv
 [![](https://visitcount.itsvg.in/api?id=Shubham-12bhatt&icon=0&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Shubham-12bhatt)
