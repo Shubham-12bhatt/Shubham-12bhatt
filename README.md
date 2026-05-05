@@ -30,5 +30,7 @@ Currently a **Web Developer (MERN Stack)** with a strong focus on **problem-solv
 ---
 [![](https://visitcount.itsvg.in/api?id=Shubham-12bhatt&icon=0&color=9)](https://visitcount.itsvg.in)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shubham-12bhatt&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Shubham-12bhatt)
